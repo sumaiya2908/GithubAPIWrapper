@@ -1,15 +1,15 @@
 {
-  "name": "get-repos",
-  "version": "1.0.0",
+  "name": "@sumaiya2908/github-api-wrapper",
+  "version": "0.0.1",
   "type": "module",
-  "description": "an npm package to get github repos",
+  "description": "A Github GraphQL API Wrapper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumaiya2908/get-repos.git"
+    "url": "git+https://github.com/sumaiya2908/GithubAPIWrapper.git"
   },
   "keywords": [
     "npm"
@@ -17,9 +17,9 @@
   "author": "Summayya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumaiya2908/get-repos/issues"
+    "url": "https://github.com/sumaiya2908/GithubAPIWrapper/issues"
   },
-  "homepage": "https://github.com/sumaiya2908/get-repos#readme",
+  "homepage": "https://github.com/sumaiya2908/GithubAPIWrapper#readme",
   "dependencies": {
     "node-fetch": "^3.2.10"
   }
