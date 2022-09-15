@@ -1,3 +1,3 @@
 # GithubAPIWrapper
 
-An NPM package to use github's GraphQL API.
+A Github GraphQL API Wrapper
