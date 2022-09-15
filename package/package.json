@@ -1,0 +1,26 @@
+{
+  "name": "get-repos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "an npm package to get github repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumaiya2908/get-repos.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Summayya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumaiya2908/get-repos/issues"
+  },
+  "homepage": "https://github.com/sumaiya2908/get-repos#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
